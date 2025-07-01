@@ -1,10 +1,10 @@
 # NeoJackaroo
 
-A strategic single-player adaptation of Jackaroo with custom rules, unique cards, and computer-controlled opponents.
+A strategic single-player first place winning adaptation of Jackaroo with custom rules, unique cards, and computer-controlled opponents.
 
 ## 📝 Overview
 
-NeoJackaroo was developed as a part of the project based CSEN401 course at the German University in Cairo. But for us, it wasn’t just about submitting an assignment, it was about simulating a real-world software development experience.
+NeoJackaroo was developed as a part of the project based CSEN401 course at the German University in Cairo. But for us, it wasn’t just about submitting an assignment, it was about simulating a real-world software development experience, moreover, we thankfully were able to rank 1st as the best project in the entire university.
 
 Our team, "الجيم في الجيب," approached this project like a startup: we used Git for collaboration, documented every task in GitHub Projects, and held ourselves to professional standards for coding, documentation, design, and testing.
 
